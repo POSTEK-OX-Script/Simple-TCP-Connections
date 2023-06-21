@@ -6,7 +6,7 @@ This code is designed to print labels on a printer based on data received from a
 
 A demonstration of what this script can do can be found here
 
-coming soon
+https://youtu.be/HImXznTxtAE
 
 ## Installation
 
